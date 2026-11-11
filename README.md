@@ -145,6 +145,21 @@ The documentation is based on inspection of workbook structure, stored values, f
 - Test source expansion, refresh, and slicer connections in desktop Excel.
 - Add verified dashboard screenshots and a short walkthrough to the repository.
 
+## Dashboard Overview
+<img width="1808" height="868" alt="Dahboard_1" src="https://github.com/user-attachments/assets/c363dff3-736c-4922-86ab-67522683e6df" />
+
+
+<img width="1588" height="827" alt="Dahboard_2" src="https://github.com/user-attachments/assets/31ea00e6-ab5f-469f-94b0-a790cb189d05" />
+
+
+<img width="1822" height="833" alt="Dahboard_3" src="https://github.com/user-attachments/assets/d1d2256a-9084-421c-8461-862432b35f49" />
+
+
+<img width="1733" height="805" alt="Dahboard_4" src="https://github.com/user-attachments/assets/a3650ce9-c3d6-45fc-b47b-2238eb04b195" />
+
+
+
+
 ## Repository description
 
 Excel financial and sales dashboard with income analysis, target tracking, country sales, B2B/B2C contributions, and sales-process views using PivotTables, charts, formulas, and year slicers.
